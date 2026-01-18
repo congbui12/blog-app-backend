@@ -1,0 +1,9 @@
+# Ignore log files
+/logs/
+
+# Ignore nodejs modules
+/node_modules/
+
+# Ignores .env file
+.env
+
